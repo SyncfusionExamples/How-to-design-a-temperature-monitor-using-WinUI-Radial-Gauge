@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUITemperatureMonitor (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUITemperatureMonitor (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
